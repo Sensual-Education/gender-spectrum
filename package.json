@@ -1,0 +1,31 @@
+{
+  "name": "gender-spectrum",
+  "version": "0.0.0",
+  "description": "Handle any user gender including non-binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sensual-Education/gender-spectrum.git"
+  },
+  "keywords": [
+    "gender",
+    "sexuality",
+    "male",
+    "female",
+    "binary",
+    "non-binary"
+  ],
+  "author": "David Hérault <dherault@gmail.com> (https://github.com/dherault)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sensual-Education/gender-spectrum/issues"
+  },
+  "homepage": "https://github.com/Sensual-Education/gender-spectrum#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-dherault": "^1.6.0"
+  }
+}
